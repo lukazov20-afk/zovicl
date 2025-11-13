@@ -1,2 +1,3 @@
 # zovicl
-Nicholas je moj najdraži čovik
+*Programiranje za internet*
+Testna datoteka
